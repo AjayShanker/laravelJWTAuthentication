@@ -341,7 +341,7 @@ http://127.0.0.1:8000/api/refresh
 </p>
 
 
-### Premium Partners
+### Screenshot
 
 ![Register](register.png)**
 ![Login](login.png)**
